@@ -6,5 +6,5 @@ One player (the computer) is assigned as the maximizer, while the other player (
 
 ##RUNNING THE GAME
 - pygame is required, I was using version 2.6.1 while developing this project
-- Open your preffered code editor and hit the Run button
+- Open your preferred code editor and hit the Run button
 - Or if you're a masochist, open your terminal to the folder you have downloaded this file in and type "python3 tictac.py".
